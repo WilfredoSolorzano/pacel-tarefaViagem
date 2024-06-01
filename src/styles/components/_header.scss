@@ -1,0 +1,45 @@
+.header {
+            background-color: rgb(114, 28, 93); /* Color de fondo de la barra lateral */
+            height: 100vh; /* Altura completa de la ventana */
+        }
+
+        .header__container {
+            height: 100%;
+        }
+
+        .header__logo {
+            display: block; /* Asegura que la imagen sea un elemento de bloque */
+            margin-bottom: 1rem; /* Espacio inferior entre la imagen y otros elementos */
+            max-width: 100%; /* Asegura que la imagen no se desborde del contenedor */
+            height: auto; /* Mantiene la proporción de la imagen */
+            margin: 0 auto;
+            padding-top: 13px;
+            padding-bottom: 13px;
+        }
+
+        .header__title {
+            margin-bottom: 1rem;
+        }
+
+        .header__nav .nav-link {
+            padding: 0.75rem 1rem;
+        }
+
+        .header__nav .nav-item + .nav-item {
+            margin-top: 1rem;
+        }
+
+        .text-container--header {
+            background-color: rgba(0, 0, 0, 0.5); /* Fondo negro con 50% de transparencia */
+            padding: 20px; /* Espaciado interno */
+            margin-top: 25px;
+            display: inline-block; /* Ajusta el tamaño al contenido */
+        }
+
+        .contador {
+            color: rgb(29, 140, 214); /* Color del texto */
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); /* Sombra al texto */
+            margin: 0; /* Elimina el margen del h2 */
+            font-size: 18px;
+            text-align: center;
+        }

@@ -1,0 +1,23 @@
+.text-colores{
+    color: rgb(29, 140, 214);
+}
+
+#fale-conosco button{
+    background-color: rgb(29, 140, 214);
+    color: #fff;
+}
+
+.social-link li{
+    list-style: none;
+    display: inline;
+}
+.social-link a{
+    text-decoration: none;
+}
+
+@media(max-width:767px){
+    .carousel-item img{
+        height: 280px;
+    }
+
+}

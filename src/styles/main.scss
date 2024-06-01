@@ -1,0 +1,55 @@
+@use './components/header';
+@use './components/form';
+@use './variaveis.scss';
+@use './components/faleConosco';
+@use './components/event';
+
+/* Estilos globales */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/* Bloque main-content */
+.main-content {
+    padding: 1rem;
+    background-image: url('/src/images/fundo.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.main-content__image {
+    width: 100%; /* Asegura que la imagen ocupe todo el ancho disponible */
+    height: auto; /* Mantiene la proporción de la imagen */
+}
+
+.navbar-collapse {
+    flex-basis: auto;
+    flex-grow: 1;
+    align-items: center;
+}
+
+@media (max-width: 940px) {
+    .navbar-collapse {
+        flex-grow: 1;
+        align-items: center;
+    }
+    .header {
+        height: 78vh;
+    }
+}
+@media (max-width: 440px) {
+    
+    .header {
+        height: 88vh;
+    }
+}
