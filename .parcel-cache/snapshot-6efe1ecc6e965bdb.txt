@@ -1,18 +1,18 @@
 6424
-131/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/index.html1717199020464102386 0
-136/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/scripts/main.js1717199020540102678 0
-128/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/scripts1717199020552102724 1
+131/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/index.html1717278293562913442 0
+136/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/scripts/main.js1717278293610926191 0
+128/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/scripts1717278293622929378 1
 142/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/frontend.ffcc0254.png1717197651228000777 0
-139/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/natal.f34f1f5d.jpg1717199020400102140 0
-142/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/horarios.02c4c489.jpg1717199020384102079 0
-140/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/verao.a9efcec0.jpeg1717199020392102110 0
-140/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/fundo.a2d2435e.jpeg1717199020316101818 0
-151/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/taraefa_parcel.59712999.js.map1717199020552102724 0
-140/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/styles/main.css.map1717199020552102724 0
-136/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/styles/main.css1717199020540102678 0
-127/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/styles1717199020552102724 1
-142/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/index.f75de5e1.js.map1717199020552102724 0
-120/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist1717199020552102724 1
+139/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/natal.f34f1f5d.jpg1717278293486893257 0
+142/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/horarios.02c4c489.jpg1717278293482892195 0
+140/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/verao.a9efcec0.jpeg1717278293482892195 0
+140/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/fundo.a2d2435e.jpeg1717278293398869885 0
+151/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/taraefa_parcel.59712999.js.map1717278293618928316 0
+140/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/styles/main.css.map1717278293618928316 0
+136/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/styles/main.css1717278293610926191 0
+127/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/styles1717278293622929378 1
+142/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/index.f75de5e1.js.map1717278293618928316 0
+120/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist1717278293622929378 1
 158/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/weak-lru-cache/dist/index.cjs1717102530263109667 0
 148/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/weak-lru-cache/dist1717102530231113737 1
 154/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/weak-lru-cache/index.d.ts1717102530847035388 0
@@ -243,7 +243,7 @@
 147/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/svgo/lib/svgo.d.ts1717102532694807941 0
 150/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/svgo/lib/svgo-node.js1717102532686808907 0
 148/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/svgo/lib/builtin.js1717102532654812774 0
-143/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/ebac_logo.a50a4e19.svg1717199020464102386 0
+143/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/ebac_logo.a50a4e19.svg1717278293478891132 0
 145/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/svgo/lib/path.js1717102532666811325 0
 147/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/svgo/lib/parser.js1717102532658812291 0
 148/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/svgo/lib/types.d.ts1717102532730803592 0
@@ -1729,7 +1729,7 @@
 178/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/caniuse-lite/data/features/css-overflow-anchor.js1717102533266739644 0
 160/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/caniuse-lite/data/regions/DJ.js1717102533370727400 0
 164/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/@swc/helpers/esm/_inherits_loose.js1717102533050765071 0
-141/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/inverno.8276b58c.jpg1717199020388102095 0
+141/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/inverno.8276b58c.jpg1717278293482892195 0
 177/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/caniuse-lite/data/features/css-letter-spacing.js1717102533218745294 0
 192/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/plugins.js1717102532690808425 0
 163/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/@swc/helpers/_/_throw/package.json1717102533510710920 0
@@ -2734,7 +2734,7 @@
 183/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/css-select/node_modules/entities/lib/esm/decode.js.map1717102532598819541 0
 149/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/sharp/lib/channel.js1717110040666892392 0
 193/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/@parcel/optimizer-svgo/node_modules/csso/lib/clean/WhiteSpace.js1717102532802794891 0
-126/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/.gitignore1717103031675699208 0
+126/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/.gitignore1717278396529920397 0
 145/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/domutils/LICENSE1717102530207116790 0
 165/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/css-what/lib/commonjs/index.d.ts.map1717102530999016055 0
 190/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/csso/node_modules/css-tree/cjs/definition-syntax/generate.cjs1717102532718805041 0
@@ -3411,7 +3411,7 @@
 144/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/tslib/README.md1717102530855034371 0
 160/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/caniuse-lite/data/regions/MM.js1717102533630696794 0
 148/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/tar-stream/index.js1717110040454893100 0
-138/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/index.f75de5e1.js1717199020540102678 0
+138/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/index.f75de5e1.js1717278293610926191 0
 146/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/once/package.json1717110040638892486 0
 148/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/is-arrayish/LICENSE1717102530379094913 0
 203/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/css-select/node_modules/entities/lib/esm/generated/decode-data-html.js.map1717102532498831624 0
@@ -3509,7 +3509,7 @@
 174/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/css-select/node_modules/domutils/package.json1717102531166995207 0
 172/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/caniuse-lite/data/features/css-boxshadow.js1717102533110758007 0
 146/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/caniuse-lite/data1717102533406723163 1
-147/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/taraefa_parcel.59712999.js1717199020540102678 0
+147/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/taraefa_parcel.59712999.js1717278293610926191 0
 169/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/caniuse-lite/data/features/array-find.js1717102532494832106 0
 180/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/css-select/node_modules/domutils/lib/index.d.ts.map1717102532330851921 0
 177/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/simple-swizzle/node_modules/is-arrayish/index.js1717110040566892726 0
@@ -4252,7 +4252,7 @@
 161/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/css-tree/cjs/syntax/node/CDC.cjs1717102531011014550 0
 168/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/caniuse-lite/data/features/atob-btoa.js1717102532594820023 0
 185/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/@parcel/package-manager/test/fixtures/packages/peers-2.01717102532782797309 1
-140/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/scripts/main.js.map1717199020552102724 0
+140/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/dist/scripts/main.js.map1717278293622929378 0
 149/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/import-fresh/license1717102530179120351 0
 156/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/regenerator-runtime/LICENSE1717102530207116790 0
 160/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/css-tree/cjs/syntax/node/common1717102532670810840 1
@@ -5019,7 +5019,7 @@
 166/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/@parcel/utils/test/objectHash.test.js1717102532986772660 0
 177/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/@parcel/optimizer-svgo/node_modules/mdn-data/css1717102532638814708 1
 186/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mtest6.c1717102533050765071 0
-115/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel1717193619337869355 1
+115/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel1717278453255628433 1
 160/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/lmdb/dependencies/lz4/lib/lz4.h1717102533214745765 0
 191/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/@parcel/optimizer-svgo/node_modules/mdn-data/css/at-rules.json1717102530995016564 0
 184/home/wilfredo/Documentos/cursofullstar-20231019T204038Z-001/cursofullstar/frontend/parcel_loadepage/taraefa_parcel/node_modules/csso/node_modules/css-tree/cjs/syntax/config/parser.cjs1717102533038766484 0
